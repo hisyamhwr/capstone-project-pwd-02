@@ -38,7 +38,7 @@ Seluruh proses meliputi **Data Understanding → Data Cleaning → EDA → Uji S
 - **Proporsi Non‑Profit** per `Plan`, `Region`, `Industry`.  
 - Performa **New vs Returning Customers**.
 
-## Berdasarkan hasil uji analisa dibeberapa sisi seperti Tren Pelanggan dan hasil revenue hingga retensi pelanggan baru dan lama kita bisa simpulkan bahwa: 
+### Berdasarkan hasil uji analisa dibeberapa sisi seperti Tren Pelanggan dan hasil revenue hingga retensi pelanggan baru dan lama kita bisa simpulkan bahwa: 
 
 - Pada segment Strategic & Enterprise, Region North America, serta industri Technology adalah penyumbang revenue tertinggi. Segmen Basic Plan dan Non-Profit memiliki kontribusi revenue paling kecil.
 - Ditemukan transaksi dengan profit negatif, terutama akibat diskon yang terlalu tinggi, Produk dengan margin tinggi lebih banyak berasal dari plan Premium & Enterprise.
@@ -48,7 +48,7 @@ Seluruh proses meliputi **Data Understanding → Data Cleaning → EDA → Uji S
 - Profit tidak merata antar segmen; sebagian besar profit terkonsentrasi pada segment Premium/Enterprise.
 - Region lain (misalnya Asia atau EMEA) berkontribusi lebih kecil, sehingga masih ada ruang untuk ekspansi.
 
-## Rekomendasi atau usulan untuk bisnis
+### Rekomendasi atau usulan untuk bisnis
 
 1. Fokus Retention & Upselling
 
