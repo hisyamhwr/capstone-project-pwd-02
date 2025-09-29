@@ -1,5 +1,9 @@
 # AWS - SaaS Sales
 
+Berikut untuk melihat PPT -> [Klik Disini untuk melihat PPT]([https://alamat-link.com](https://drive.google.com/file/d/1FNO5nWuo1-l1Tauh2fEMWfGEkAS_bHId/view?usp=sharing)
+Berikut untuk melihat file Tableau -> [Klik Disini untuk melihat Tableau Public]([https://alamat-link.com]([https://drive.google.com/file/d/1FNO5nWuo1-l1Tauh2fEMWfGEkAS_bHId/view?usp=sharing](https://public.tableau.com/views/capstone2_17591512335460/DashboardSaas_sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 Purwadhika Data Science Capstone Project Module 2
 
 Proyek ini menganalisis dataset **SaaS Sales** untuk menjawab pertanyaan bisnis terkait **pertumbuhan pendapatan, profitabilitas, segmentasi pelanggan, dampak diskon,** dan **perbedaan kontribusi pelanggan baru vs lama**.  
