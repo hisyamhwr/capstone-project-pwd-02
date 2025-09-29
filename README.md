@@ -1,6 +1,6 @@
 # AWS - SaaS Sales
 
-Berikut untuk melihat PPT -> [Klik Disini untuk melihat PPT](https://drive.google.com/file/d/1FNO5nWuo1-l1Tauh2fEMWfGEkAS_bHId/view?usp=sharing) |
+Berikut untuk melihat PPT -> [Klik Disini untuk melihat PPT](https://drive.google.com/file/d/1FNO5nWuo1-l1Tauh2fEMWfGEkAS_bHId/view?usp=sharing) 
 
 Berikut untuk melihat file Tableau -> [Klik Disini untuk melihat Tableau Public](https://public.tableau.com/views/capstone2_17591512335460/DashboardSaas_sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
